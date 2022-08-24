@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Enter a number");
             string a = Console.ReadLine();
+
             int s = Convert.ToInt32(a);
             // using switch case to display days with number inputs 
             switch (s)
