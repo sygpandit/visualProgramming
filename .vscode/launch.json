@@ -1,4 +1,7 @@
 {
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -10,9 +13,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/TypeConversion/bin/Debug/net6.0/TypeConversion.dll",
+            "program": "${workspaceFolder}/SwitchCase/bin/Debug/net6.0/SwitchCase.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/TypeConversion",
+            "cwd": "${workspaceFolder}/SwitchCase",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "externalTerminal",
             "stopAtEntry": false
