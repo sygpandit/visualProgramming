@@ -4,9 +4,6 @@
 #
 ### Installation 
 
-#### Getting Started
-
-
 For Linux, Visual Studio is not available. So we will install Visual Studio Code either using the apt command from terminal or manually downloading the .deb file from the official website.
 
 ```
@@ -33,6 +30,7 @@ sudo apt install dotnet-sdk-6.0
 
 After the installation of .NET core, we simply create a project in the specific directory using the terminal integrated with VS Code.
 
+### Project Creation
 ```
 dotnet new console -o HelloWorld
 ```
