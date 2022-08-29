@@ -27,10 +27,11 @@ sudo apt install apt-transport-https
 
 sudo apt install dotnet-sdk-6.0 
 ```
+### Project Creation
 
 After the installation of .NET core, we simply create a project in the specific directory using the terminal integrated with VS Code.
 
-### Project Creation
+
 ```
 dotnet new console -o HelloWorld
 ```
