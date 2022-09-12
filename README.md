@@ -48,3 +48,6 @@ This helps us to enter the project directory.
 dotnet run
 ```
 This builds the projects and compiles the files creating a ```/bin``` directory which contains a ```HelloWorld.dll``` file.
+
+Alternatively you can download this extension for building and running the projects without using the terminal from 
+https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet
