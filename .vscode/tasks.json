@@ -7,7 +7,29 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}"
+                "${workspaceFolder}",
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}",
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}",
             ],
             "problemMatcher": "$msCompile"
         }

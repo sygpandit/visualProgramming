@@ -1,0 +1,15 @@
+/media/syg/Coding1/visualProgramming/HelloWorld/bin/Release/net6.0/HelloWorld
+/media/syg/Coding1/visualProgramming/HelloWorld/bin/Release/net6.0/HelloWorld.deps.json
+/media/syg/Coding1/visualProgramming/HelloWorld/bin/Release/net6.0/HelloWorld.runtimeconfig.json
+/media/syg/Coding1/visualProgramming/HelloWorld/bin/Release/net6.0/HelloWorld.dll
+/media/syg/Coding1/visualProgramming/HelloWorld/bin/Release/net6.0/HelloWorld.pdb
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.AssemblyInfo.cs
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.dll
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/refint/HelloWorld.dll
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.pdb
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/HelloWorld.genruntimeconfig.cache
+/media/syg/Coding1/visualProgramming/HelloWorld/obj/Release/net6.0/ref/HelloWorld.dll

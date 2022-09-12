@@ -1,6 +1,0 @@
-/media/syg/Coding1/visualProgramming/SwitchCase/obj/Debug/net6.0/SwitchCase.fsproj.AssemblyReference.cache
-/media/syg/Coding1/visualProgramming/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfoInputs.cache
-/media/syg/Coding1/visualProgramming/SwitchCase/obj/Debug/net6.0/SwitchCase.AssemblyInfo.fs
-/media/syg/Coding1/visualProgramming/SwitchCase/obj/Debug/net6.0/SwitchCase.fsproj.CoreCompileInputs.cache
-/media/syg/Coding1/visualProgramming/SwitchCase/obj/Debug/net6.0/SwitchCase.dll
-/media/syg/Coding1/visualProgramming/SwitchCase/obj/Debug/net6.0/SwitchCase.pdb

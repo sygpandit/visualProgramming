@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/syg/Coding/visualProgramming/HelloWorld/HelloWorld.csproj": {}
+    "/media/syg/Coding1/visualProgramming/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/media/syg/Coding/visualProgramming/HelloWorld/HelloWorld.csproj": {
+    "/media/syg/Coding1/visualProgramming/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/syg/Coding/visualProgramming/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/media/syg/Coding1/visualProgramming/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/media/syg/Coding/visualProgramming/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/media/syg/Coding1/visualProgramming/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/home/syg/.nuget/packages/",
-        "outputPath": "/media/syg/Coding/visualProgramming/HelloWorld/obj/",
+        "outputPath": "/media/syg/Coding1/visualProgramming/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/syg/.nuget/NuGet/NuGet.Config"
