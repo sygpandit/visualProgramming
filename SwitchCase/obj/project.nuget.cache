@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3dlbYnkDBF4g6AOXS98vVR0QFuEHJ4vYjKjHmkZCQ09H/fdAPNq7Mh7YMJyMU5F8oJdQU/p1bBiAK8nwcN8ulA==",
+  "dgSpecHash": "yIQZRHpccn8GH7P8ytV80dlV2sGgEoP4JmA99y48px2u8EpbsLvUI6jw+MUZIst8c+6dS2aOcivgtRBhmQACSA==",
   "success": true,
-  "projectFilePath": "/media/syg/Coding1/visualProgramming/SwitchCase/SwitchCase.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/suyog/visualProgramming/SwitchCase/SwitchCase.csproj",
+  "expectedPackageFiles": [
+    "/home/suyog/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/suyog/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/suyog/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

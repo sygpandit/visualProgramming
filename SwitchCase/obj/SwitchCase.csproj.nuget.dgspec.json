@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/media/syg/Coding1/visualProgramming/SwitchCase/SwitchCase.csproj": {}
+    "/home/suyog/visualProgramming/SwitchCase/SwitchCase.csproj": {}
   },
   "projects": {
-    "/media/syg/Coding1/visualProgramming/SwitchCase/SwitchCase.csproj": {
+    "/home/suyog/visualProgramming/SwitchCase/SwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/syg/Coding1/visualProgramming/SwitchCase/SwitchCase.csproj",
+        "projectUniqueName": "/home/suyog/visualProgramming/SwitchCase/SwitchCase.csproj",
         "projectName": "SwitchCase",
-        "projectPath": "/media/syg/Coding1/visualProgramming/SwitchCase/SwitchCase.csproj",
-        "packagesPath": "/home/syg/.nuget/packages/",
-        "outputPath": "/media/syg/Coding1/visualProgramming/SwitchCase/obj/",
+        "projectPath": "/home/suyog/visualProgramming/SwitchCase/SwitchCase.csproj",
+        "packagesPath": "/home/suyog/.nuget/packages/",
+        "outputPath": "/home/suyog/visualProgramming/SwitchCase/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/syg/.nuget/NuGet/NuGet.Config"
+          "/home/suyog/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
