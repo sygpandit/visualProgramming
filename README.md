@@ -17,7 +17,7 @@ Click here
 Or for debian based devices like ubuntu run the following commands in the terminal
 
 
-> **Imp: You must install the dotnet core in the directory where you will be creating the projects**
+> **Note: You must install the dotnet core in the directory where you will be creating the projects**
 
 ```
 wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb 
