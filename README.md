@@ -28,7 +28,7 @@ sudo apt update
 
 sudo apt install apt-transport-https 
 
-sudo apt install dotnet-sdk-6.0 
+sudo apt install dotnet-sdk-7.0 
 ```
 ### Project Creation
 
