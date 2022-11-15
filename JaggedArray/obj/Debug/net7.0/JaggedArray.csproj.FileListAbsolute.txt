@@ -1,0 +1,15 @@
+/home/suyog/visualProgramming/JaggedArray/bin/Debug/net7.0/JaggedArray
+/home/suyog/visualProgramming/JaggedArray/bin/Debug/net7.0/JaggedArray.deps.json
+/home/suyog/visualProgramming/JaggedArray/bin/Debug/net7.0/JaggedArray.runtimeconfig.json
+/home/suyog/visualProgramming/JaggedArray/bin/Debug/net7.0/JaggedArray.dll
+/home/suyog/visualProgramming/JaggedArray/bin/Debug/net7.0/JaggedArray.pdb
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.csproj.AssemblyReference.cache
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.AssemblyInfoInputs.cache
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.AssemblyInfo.cs
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.csproj.CoreCompileInputs.cache
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.dll
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/refint/JaggedArray.dll
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.pdb
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/JaggedArray.genruntimeconfig.cache
+/home/suyog/visualProgramming/JaggedArray/obj/Debug/net7.0/ref/JaggedArray.dll
