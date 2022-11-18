@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hki9Y4PF1y6Qlwzop9U7RBZS0ADpujSH9imbEUpGifHMBmkkNrrQf6DNzeajdPRQDtdcf+W6SuD3Rjn7PJcOug==",
+  "dgSpecHash": "JqpOv5kDB0t2W7HcHWPdbQXfUHbnwvWsqyW4tms9ituLH7x4V34xkFTGQv1fRrPF/0ucpf+FEILxsZ5XFZkOAA==",
   "success": true,
   "projectFilePath": "/home/suyog/visualProgramming/TypeConversion/TypeConversion.csproj",
-  "expectedPackageFiles": [
-    "/home/suyog/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/home/suyog/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/home/suyog/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
