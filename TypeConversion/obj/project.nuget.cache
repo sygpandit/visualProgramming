@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "c1+hhuadUL/OPcjIHI4uM1CamknWEHEi2eLvm7tV8CgBenvC4ek7ZLYyrner/osTEjmv4rImNsDcd3vTWBEYRg==",
+  "dgSpecHash": "Hki9Y4PF1y6Qlwzop9U7RBZS0ADpujSH9imbEUpGifHMBmkkNrrQf6DNzeajdPRQDtdcf+W6SuD3Rjn7PJcOug==",
   "success": true,
-  "projectFilePath": "/media/syg/Coding1/visualProgramming/TypeConversion/TypeConversion.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /media/syg/Coding1/visualProgramming/TypeConversion/obj/project.nuget.cache : Found invalid data while decoding."
-    }
-  ]
+  "projectFilePath": "/home/suyog/visualProgramming/TypeConversion/TypeConversion.csproj",
+  "expectedPackageFiles": [
+    "/home/suyog/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/suyog/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/suyog/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
 }

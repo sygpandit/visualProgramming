@@ -9,8 +9,6 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "cwd": "${workspaceFolder}/HelloWorld",
-            "program": "${cwd}/SwitchCase/bin/Debug/net6.0/SwitchCase.dll",
             "args": [],
             "stopAtEntry": false,
             "console": "externalTerminal",

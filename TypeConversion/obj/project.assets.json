@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/syg/.nuget/packages/": {}
+    "/home/suyog/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/syg/Coding1/visualProgramming/TypeConversion/TypeConversion.csproj",
+      "projectUniqueName": "/home/suyog/visualProgramming/TypeConversion/TypeConversion.csproj",
       "projectName": "TypeConversion",
-      "projectPath": "/media/syg/Coding1/visualProgramming/TypeConversion/TypeConversion.csproj",
-      "packagesPath": "/home/syg/.nuget/packages/",
-      "outputPath": "/media/syg/Coding1/visualProgramming/TypeConversion/obj/",
+      "projectPath": "/home/suyog/visualProgramming/TypeConversion/TypeConversion.csproj",
+      "packagesPath": "/home/suyog/.nuget/packages/",
+      "outputPath": "/home/suyog/visualProgramming/TypeConversion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/syg/.nuget/NuGet/NuGet.Config"
+        "/home/suyog/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -54,21 +54,27 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /media/syg/Coding1/visualProgramming/TypeConversion/obj/project.nuget.cache : Found invalid data while decoding."
-    }
-  ]
+  }
 }
