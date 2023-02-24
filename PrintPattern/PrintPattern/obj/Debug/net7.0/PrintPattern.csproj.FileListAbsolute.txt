@@ -1,0 +1,5 @@
+/home/suyog/Documents/visualProgramming/PrintPattern/PrintPattern/obj/Debug/net7.0/PrintPattern.csproj.AssemblyReference.cache
+/home/suyog/Documents/visualProgramming/PrintPattern/PrintPattern/obj/Debug/net7.0/PrintPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/suyog/Documents/visualProgramming/PrintPattern/PrintPattern/obj/Debug/net7.0/PrintPattern.AssemblyInfoInputs.cache
+/home/suyog/Documents/visualProgramming/PrintPattern/PrintPattern/obj/Debug/net7.0/PrintPattern.AssemblyInfo.cs
+/home/suyog/Documents/visualProgramming/PrintPattern/PrintPattern/obj/Debug/net7.0/PrintPattern.csproj.CoreCompileInputs.cache

@@ -1,18 +1,26 @@
 ﻿using System;
-namespace ArrayPointers
+namespace PrintPattern
 {
-    class ArrayPointers
+    class Program
     {
-        static unsafe void Main(string[] args)
+        public void Program()
         {
-            int[] num = { 1, 2 };
-            fixed (int* p = num)
+            for (int i = 0; i <= 4; i++)
             {
-                for (int i = 0; i < 2; i++)
+                if (i == 3)
                 {
-                    Console.WriteLine((int)(p + i));
+                    continue;
                 }
+                for (int j = 0; j <= i; j++)
+                {
+                    Console.Write(i);
+                }
+                Console.WriteLine();
             }
+        }
+        static void Main(string[] args)
+        {
+            Program p1 = new Program();
 
         }
     }

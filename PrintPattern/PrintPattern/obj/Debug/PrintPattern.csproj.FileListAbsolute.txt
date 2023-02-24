@@ -1,8 +1,0 @@
-D:\visual\PrintPattern\PrintPattern\bin\Debug\PrintPattern.exe.config
-D:\visual\PrintPattern\PrintPattern\bin\Debug\PrintPattern.exe
-D:\visual\PrintPattern\PrintPattern\bin\Debug\PrintPattern.pdb
-D:\visual\PrintPattern\PrintPattern\obj\Debug\PrintPattern.csproj.AssemblyReference.cache
-D:\visual\PrintPattern\PrintPattern\obj\Debug\PrintPattern.csproj.SuggestedBindingRedirects.cache
-D:\visual\PrintPattern\PrintPattern\obj\Debug\PrintPattern.csproj.CoreCompileInputs.cache
-D:\visual\PrintPattern\PrintPattern\obj\Debug\PrintPattern.exe
-D:\visual\PrintPattern\PrintPattern\obj\Debug\PrintPattern.pdb
